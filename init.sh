@@ -1,6 +1,6 @@
 ﻿
 # git clone https://github.com/xpkore/polygonisharam.git
-# sh ~/polygonisharam/haram/init.sh www.google.com
+# sh ~/polygonisharam/init.sh wss://arb1.mev.io/ws
 
 cd ~/polygonisharam
 wget https://packages.microsoft.com/config/ubuntu/20.04/packages-microsoft-prod.deb -O packages-microsoft-prod.deb
